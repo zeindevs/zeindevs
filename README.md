@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeindevs
 - 👀 I’m interested in Software Enginnering
-- 🌱 I’m currently learning Software Engineering using python, java, c++, C#
+- 🌱 I’m currently learning Software Engineering using python, java, c++, c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
