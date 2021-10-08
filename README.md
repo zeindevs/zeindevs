@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeindevs
 - 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning python, java, c++, c#, node.js, vue.js, react.js, next.js
+- 🌱 I’m currently learning python, java, c++, c#, php, javascript, typescrpt, etc.
 - 💞️ I’m looking to collaborate on IG @zeindevs
 - 📫 How to reach me IG @zeindevs
 
