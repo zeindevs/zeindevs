@@ -56,8 +56,6 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <a href="https://laravel.com/" title="Laravel" target="_blank">
     <code><img alt="Laravel" width="35" height="35" src="./images/technologies/laravel.jpg"></code>
   </a>
-</p>
-<p>
   <a href="https://nodejs.org/" title="Node.js" target="_blank">
     <code><img alt="Node.js" width="35" height="35" src="./images/technologies/nodejs.jpg"></code>
   </a>
@@ -118,6 +116,9 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 <p>
    <a href="https://reactnative.com/" title="React Native" target="_blank">
     <code><img alt="React Native" width="35" height="35" src="./images/technologies/reactnative.jpg"></code>
+  </a>
+   <a href="https://www.flutter.dev/" title="Flutter" target="_blank">
+    <code><img alt="Flutter" width="35" height="35" src="./images/technologies/flutter.jpg"></code>
   </a>
 </p>
 <p>
