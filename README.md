@@ -27,7 +27,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m a solo Developer;
+- 💻 I’m a Full-stack Developer;
 - 🌱 I'm improving my skills in React and Microservices;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@zeindevs](https://www.linkedin.com/in/zeindevs/);
