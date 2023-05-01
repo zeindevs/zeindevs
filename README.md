@@ -145,7 +145,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <summary>📈 My GitHub Stats</summary>
   <br />
   <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham" />
-  <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham" />
+  <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true" />
 </details>
 
 <!---
