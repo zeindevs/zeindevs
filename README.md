@@ -1,25 +1,34 @@
 Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two years of full-stack development experience. I am very hardworking and active, so I find it interesting to learn new technologies while spending more time and hone my professional skills.
 
 <a href="https://www.linkedin.com/in/zeindevs/" title="LinkdeIn" target="_blank">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+<!--   <img align="left" alt="LinkdeIn" src="https://img.shields.io/badge/LinkedIn-@zeindevs?style=flat&color=blue&logo=linkedin" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://twitter.com/zeindevs" title="Twitter" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
+<!--   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-@zeindevs?style=flat&color=blue&logo=twitter" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://github.com/zeindevs" title="GitHub" target="_blank">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
+<!--   <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-@zeindevs?style=flat&color=blue&logo=github" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://youtube.com/zeindevs" title="YouTube" target="_blank">
-  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />
+<!--   <img align="left" alt="Youtube" src="https://img.shields.io/badge/Yotube-@zeindevs?style=flat&color=blue&logo=youtube" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://www.instagram.com/zeindevs/" title="Instagram" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
+<!--   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-@zeindevs?style=flat&color=blue&logo=instagram" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://www.zeindevs.com/" title="Website" target="_blank">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" />
+  <img align="left" alt="Website" width="22px" src="https://cdn.simpleicons.org/dailymotion" />
+<!--   <img align="left" alt="Website" src="https://img.shields.io/website/https/www.zeindevs.com/favicon.ico?color=blue" style="vertical-align:top; margin:4px" /> -->
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=zeindevs)
+
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=zeindevs) -->
+<img src="https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid" />
 
 <a href="https://www.zeindevs.com/" title="Website" target="_blank">
   <img align="right" alt="GIF" src="./images/other/coding.gif?raw=true" width="500" height="330" />
