@@ -1,25 +1,34 @@
 Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two years of full-stack development experience. I am very hardworking and active, so I find it interesting to learn new technologies while spending more time and hone my professional skills.
 
 <a href="https://www.linkedin.com/in/zeindevs/" title="LinkdeIn" target="_blank">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+<!--   <img align="left" alt="LinkdeIn" src="https://img.shields.io/badge/LinkedIn-@zeindevs?style=flat&color=blue&logo=linkedin" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://twitter.com/zeindevs" title="Twitter" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
+<!--   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-@zeindevs?style=flat&color=blue&logo=twitter" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://github.com/zeindevs" title="GitHub" target="_blank">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
+<!--   <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-@zeindevs?style=flat&color=blue&logo=github" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://youtube.com/zeindevs" title="YouTube" target="_blank">
-  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />
+<!--   <img align="left" alt="Youtube" src="https://img.shields.io/badge/Yotube-@zeindevs?style=flat&color=blue&logo=youtube" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://www.instagram.com/zeindevs/" title="Instagram" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
+<!--   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-@zeindevs?style=flat&color=blue&logo=instagram" style="vertical-align:top; margin:4px" /> -->
 </a>
 <a href="https://www.zeindevs.com/" title="Website" target="_blank">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" />
+  <!-- <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" /> -->
+  <img align="left" alt="Website" width="22px" src="./images/logo.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=zeindevs)
+
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=zeindevs) -->
+<img src="https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid" />
 
 <a href="https://www.zeindevs.com/" title="Website" target="_blank">
   <img align="right" alt="GIF" src="./images/other/coding.gif?raw=true" width="500" height="330" />
@@ -27,7 +36,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m a solo Developer;
+- 💻 I’m a Full-stack Developer;
 - 🌱 I'm improving my skills in React and Microservices;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@zeindevs](https://www.linkedin.com/in/zeindevs/);
@@ -112,10 +121,16 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
    <a href="https://and.design/" title="Ant Design" target="_blank">
     <code><img alt="Ant Design" width="35" height="35" src="./images/technologies/antdesign.jpg"></code>
   </a>
+  <a href="https://chakra-ui.com/" title="Chakra UI" target="_blank">
+    <code><img alt="Chakra UI" width="35" height="35" src="./images/technologies/chakraui.jpg"></code>
+  </a>
 </p>
 <p>
    <a href="https://reactnative.com/" title="React Native" target="_blank">
     <code><img alt="React Native" width="35" height="35" src="./images/technologies/reactnative.jpg"></code>
+  </a>
+   <a href="https://reactnative.com/" title="Vue" target="_blank">
+    <code><img alt="Vue" width="35" height="35" src="./images/technologies/vue.jpg"></code>
   </a>
    <a href="https://www.flutter.dev/" title="Flutter" target="_blank">
     <code><img alt="Flutter" width="35" height="35" src="./images/technologies/flutter.jpg"></code>
@@ -136,7 +151,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <summary>📈 My GitHub Stats</summary>
   <br />
   <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham" />
-  <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham" />
+  <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true" />
 </details>
 
 <!---
