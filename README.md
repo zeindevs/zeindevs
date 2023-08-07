@@ -43,7 +43,17 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 - ⚽ My hobbies: Reading, Watching Movies, Listening Music.
 
 **Languages and Tools:**
-
+<p>
+  <a href="https://www.cprogramming.com/" title="C" target="_blank">
+    <code><img alt="C" width="35" height="35" src="./images/technologies/c.jpg"></code>
+  </a>
+  <a href="https://www.cprogramming.com/" title="C++" target="_blank">
+    <code><img alt="C++" width="35" height="35" src="./images/technologies/cpp.jpg"></code>
+  </a>
+  <a href="https://go.dev/doc/articles/wiki/" title="Golang" target="_blank">
+    <code><img alt="Golang" width="35" height="35" src="./images/technologies/golang.jpg"></code>
+  </a>
+</p>
 <p>
   <a href="https://www.java.com/en/" title="Java" target="_blank">
     <code><img alt="java" width="35" height="35" src="./images/technologies/java.jpg"></code>
