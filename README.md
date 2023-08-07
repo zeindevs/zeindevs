@@ -139,7 +139,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
    <a href="https://reactnative.com/" title="React Native" target="_blank">
     <code><img alt="React Native" width="35" height="35" src="./images/technologies/reactnative.jpg"></code>
   </a>
-   <a href="https://reactnative.com/" title="Vue" target="_blank">
+   <a href="https://vuejs.org/" title="Vue" target="_blank">
     <code><img alt="Vue" width="35" height="35" src="./images/technologies/vue.jpg"></code>
   </a>
    <a href="https://www.flutter.dev/" title="Flutter" target="_blank">
