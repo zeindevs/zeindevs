@@ -8,10 +8,10 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
 <!--   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-@zeindevs?style=flat&color=blue&logo=twitter" style="vertical-align:top; margin:4px" /> -->
 </a>
-<a href="https://github.com/zeindevs" title="GitHub" target="_blank">
+<!-- <a href="https://github.com/zeindevs" title="GitHub" target="_blank">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
-<!--   <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-@zeindevs?style=flat&color=blue&logo=github" style="vertical-align:top; margin:4px" /> -->
-</a>
+  <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-@zeindevs?style=flat&color=blue&logo=github" style="vertical-align:top; margin:4px" />
+</a> -->
 <a href="https://youtube.com/zeindevs" title="YouTube" target="_blank">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />
 <!--   <img align="left" alt="Youtube" src="https://img.shields.io/badge/Yotube-@zeindevs?style=flat&color=blue&logo=youtube" style="vertical-align:top; margin:4px" /> -->
@@ -111,7 +111,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <a href="https://tailwindcss.com/" title="Tailwindcss" target="_blank">
     <code><img alt="Tailwindcss" width="35" height="35" src="./images/technologies/tailwindcss.jpg"></code>
   </a>
-  <a href="https://and.design/" title="Ant Design" target="_blank">
+  <a href="https://ant.design/" title="Ant Design" target="_blank">
     <code><img alt="Ant Design" width="35" height="35" src="./images/technologies/antdesign.jpg"></code>
   </a>
   <a href="https://chakra-ui.com/" title="Chakra UI" target="_blank">
@@ -154,6 +154,11 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
     <code><img alt="Kubernetes" width="35" height="35" src="./images/technologies/kubernetes.jpg"></code>
   </a> -->
 </p>
+
+**Projects:**
+
+- [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extensions for downloading images and other useful features.
+- [2023] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler.
 
 **Statistics:**
 
