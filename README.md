@@ -20,10 +20,10 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
 <!--   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-@zeindevs?style=flat&color=blue&logo=instagram" style="vertical-align:top; margin:4px" /> -->
 </a>
-<a href="https://www.zeindevs.com/" title="Website" target="_blank">
-  <!-- <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" /> -->
+<!-- <a href="https://www.zeindevs.com/" title="Website" target="_blank">
+  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" />
   <img align="left" alt="Website" width="22px" src="./images/logo.png" />
-</a>
+</a> -->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=zeindevs) -->
 <img src="https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid" />
@@ -114,9 +114,9 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <a href="https://ant.design/" title="Ant Design" target="_blank">
     <code><img alt="Ant Design" width="35" height="35" src="./images/technologies/antdesign.jpg"></code>
   </a>
-  <a href="https://chakra-ui.com/" title="Chakra UI" target="_blank">
+  <!-- <a href="https://chakra-ui.com/" title="Chakra UI" target="_blank">
     <code><img alt="Chakra UI" width="35" height="35" src="./images/technologies/chakraui.jpg"></code>
-  </a>
+  </a> -->
 </p>
 <p>
   <a href="https://reactnative.com/" title="React Native" target="_blank">
@@ -128,9 +128,9 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <a href="https://www.qt.io/" title="Qt" target="_blank">
     <code><img alt="Qt" width="35" height="35" src="./images/technologies/qt.jpg"></code>
   </a>
-  <a href="https://openjfx.io/" title="JavaFX" target="_blank">
+  <!-- <a href="https://openjfx.io/" title="JavaFX" target="_blank">
     <code><img alt="JavaFX" width="35" height="35" src="./images/technologies/javafx.jpg"></code>
-  </a>
+  </a> -->
 </p>
 <p>
   <a href="https://www.postgresql.org/" title="Postgresql" target="_blank">
