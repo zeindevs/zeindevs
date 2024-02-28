@@ -158,6 +158,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 **Projects:**
 
 - [2024] [Laravel SAS-SV-KNN](https://github.com/zeindevs/laravel-sas-sv-knn) Simple Implementation SAS-SV with K-Nearest Neighbor Algorithm Method in Laravel.
+- [2024] [DewaPOS UI](https://github.com/zeindevs/ui-dewapos) UI Template for Point of Sell Application.
 - [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extensions for downloading images and other useful features.
 - [2023] [imagefix](https://github.com/zeindevs/imagefix) A wrapper script for fixing images in and other useful tools.
 - [2023] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler.
