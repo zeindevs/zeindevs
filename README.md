@@ -161,6 +161,11 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 - [2023] [imagefix](https://github.com/zeindevs/imagefix) A wrapper script for fixing images in and other useful tools.
 - [2023] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler.
 
+**UI Clone (!!Educational Purpose Only!!!)**
+
+- [2024] [DigiPlay](https://uiclone-digiplay.netlify.app/) HTML+CSS+Bootstrap
+- [2024] [Otakudesu](https://uiclone-otakudesu.netlify.app/) React+Tailwindcss
+
 **Statistics:**
 
 <details>
