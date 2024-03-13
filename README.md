@@ -12,10 +12,10 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
   <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-@zeindevs?style=flat&color=blue&logo=github" style="vertical-align:top; margin:4px" />
 </a> -->
-<a href="https://youtube.com/zeindevs" title="YouTube" target="_blank">
+<!-- <a href="https://youtube.com/zeindevs" title="YouTube" target="_blank">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />
-<!--   <img align="left" alt="Youtube" src="https://img.shields.io/badge/Yotube-@zeindevs?style=flat&color=blue&logo=youtube" style="vertical-align:top; margin:4px" /> -->
-</a>
+  <img align="left" alt="Youtube" src="https://img.shields.io/badge/Yotube-@zeindevs?style=flat&color=blue&logo=youtube" style="vertical-align:top; margin:4px" />
+</a> -->
 <a href="https://www.instagram.com/zeindevs/" title="Instagram" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
 <!--   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-@zeindevs?style=flat&color=blue&logo=instagram" style="vertical-align:top; margin:4px" /> -->
@@ -28,9 +28,9 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=zeindevs) -->
 <img src="https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid" />
 
-<a href="https://www.zeindevs.com/" title="Website" target="_blank">
+<!-- <a href="https://www.zeindevs.com/" title="Website" target="_blank">
   <img align="right" alt="GIF" src="./images/other/coding.gif?raw=true" width="500" height="330" />
-</a>
+</a> -->
 
 **Talking about Personal Stuffs:**
 
@@ -170,12 +170,10 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 
 **Statistics:**
 
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  <br />
+<div>
   <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham" />
   <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true" />
-</details>
+</div>
 
 <!---
 zeindevs/zeindevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
