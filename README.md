@@ -38,7 +38,7 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 - 🌱 I'm improving my skills in React and Microservices;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@zeindevs](https://www.linkedin.com/in/zeindevs/);
-- ⚽ My hobbies: Reading, Watching Movies, Listening Music.
+- ⚽ My hobbies: Reading, Listening Music, Coding.
 
 **Languages and Tools:**
 
@@ -171,8 +171,11 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
 **Statistics:**
 
 <div>
-  <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham" />
-  <img alt="zeindevs" src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeindevs&theme=gotham&hide_border=true" alt="GitHub Streak" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true&layout=compact&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="GitHub Top Languages" />
+  </div>
 </div>
 
 <!---
