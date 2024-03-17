@@ -155,12 +155,16 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   </a> -->
 </p>
 
-**Projects:**
+**Main Project:**
+
+- [2024] [AnimAPI](https://github.com/zeindevs/animapi) NPM package that can be used to scraping data from anime websites.
+- [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extension for downloading images and other useful features.
+- [2023] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler.
+
+**Side Project:**
 
 - [2024] [Laravel SAS-SV-KNN](https://github.com/zeindevs/laravel-sas-sv-knn) Simple Implementation SAS-SV with K-Nearest Neighbor Algorithm Method in Laravel.
 - [2024] [DewaPOS UI](https://github.com/zeindevs/ui-dewapos) UI Template for Point of Sell Application.
-- [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extension for downloading images and other useful features.
-- [2023] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler.
 - [2021] [OSINT Tools (UI Only)](https://github.com/zeindevs/ui-osint-tools) A profiling tool built using various sources of OSINT modules combined into a single tool.
 
 **UI Clone (!!!Educational Purpose Only!!!)**
