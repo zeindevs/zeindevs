@@ -1,4 +1,4 @@
-Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two years of full-stack development experience. I am very hardworking and active, so I find it interesting to learn new technologies while spending more time and hone my professional skills.
+Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over 3 years of full-stack development experience. I am very hardworking and active, so I find it interesting to learn new technologies while spending more time and hone my professional skills.
 
 <a href="https://www.linkedin.com/in/zeindevs/" title="LinkdeIn" target="_blank">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
@@ -114,9 +114,9 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over two y
   <a href="https://ant.design/" title="Ant Design" target="_blank">
     <code><img alt="Ant Design" width="35" height="35" src="./images/technologies/antdesign.jpg"></code>
   </a>
-  <!-- <a href="https://chakra-ui.com/" title="Chakra UI" target="_blank">
+  <a href="https://chakra-ui.com/" title="Chakra UI" target="_blank">
     <code><img alt="Chakra UI" width="35" height="35" src="./images/technologies/chakraui.jpg"></code>
-  </a> -->
+  </a>
 </p>
 <p>
   <a href="https://reactnative.com/" title="React Native" target="_blank">
