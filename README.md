@@ -86,8 +86,11 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over 3 yea
   <a href="https://fastapi.tiangolo.com/" title="FastAPI" target="_blank">
     <code><img alt="FastAPI" width="35" height="35" src="./images/technologies/fastapi.jpg"></code>
   </a>
-  <a href="https://spring.io/" title="Spring" target="_blank">
+  <!-- <a href="https://spring.io/" title="Spring" target="_blank">
     <code><img alt="Spring" width="35" height="35" src="./images/technologies/spring.jpg"></code>
+  </a> -->
+  <a href="https://www.djangoproject.com/" title="Django" target="_blank">
+    <code><img alt="Django" width="35" height="35" src="./images/technologies/django.jpg"></code>
   </a>
 </p>
 <p>
