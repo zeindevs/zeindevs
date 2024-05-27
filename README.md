@@ -1,12 +1,12 @@
-Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over 3 years of full-stack development experience. I am very hardworking and active, so I find it interesting to learn new technologies while spending more time and hone my professional skills.
+A Full-time freelancer with over 3 years of full-stack development experience. I am very hardworking and active, so I find it interesting to learn new technologies while spending more time and hone my professional skills.
 
 <a href="https://www.linkedin.com/in/zeindevs/" title="LinkdeIn" target="_blank">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 <!--   <img align="left" alt="LinkdeIn" src="https://img.shields.io/badge/LinkedIn-@zeindevs?style=flat&color=blue&logo=linkedin" style="vertical-align:top; margin:4px" /> -->
 </a>
-<a href="https://twitter.com/zeindevs" title="Twitter" target="_blank">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
-<!--   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-@zeindevs?style=flat&color=blue&logo=twitter" style="vertical-align:top; margin:4px" /> -->
+<a href="https://x.com/zeindevs" title="Twitter" target="_blank">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x" />
+<!--   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-@zeindevs?style=flat&color=blue&logo=x" style="vertical-align:top; margin:4px" /> -->
 </a>
 <!-- <a href="https://github.com/zeindevs" title="GitHub" target="_blank">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" />
@@ -172,8 +172,9 @@ Hi, i'm [ZEN](https://www.zeindevs.com/), a Full-time freelancer with over 3 yea
 
 **UI Clone (!!!Educational Purpose Only!!!)**
 
+- [2024] [DTFLab](https://astro-dtflab.netlify.app/) Astro
 - [2024] [DigiPlay](https://uiclone-digiplay.netlify.app/) HTML+CSS+Bootstrap
-- [2024] [Otakudesu](https://uiclone-otakudesu.netlify.app/) React+Tailwindcss
+<!-- - [2024] [Otakudesu](https://uiclone-otakudesu.netlify.app/) React+Tailwindcss -->
 
 **Statistics:**
 
