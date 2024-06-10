@@ -160,9 +160,9 @@ A Full-time freelancer with over 3 years of full-stack development experience. I
 
 **Main Project:**
 
+- [2023-2024] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler (Rewrite to C++).
 - [2024] [AnimAPI](https://github.com/zeindevs/animapi) NPM package that can be used to scraping data from anime websites.
 - [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extension for downloading images and other useful features.
-- [2023] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler.
 
 **Side Project:**
 
@@ -173,8 +173,8 @@ A Full-time freelancer with over 3 years of full-stack development experience. I
 
 **UI Clone (!!!Educational Purpose Only!!!)**
 
-- [2024] [DTFLab](https://astro-dtflab.netlify.app/) Astro
-- [2024] [DigiPlay](https://uiclone-digiplay.netlify.app/) HTML+CSS+Bootstrap
+- [2024] [DTFLab](https://astro-dtflab.netlify.app/) (Company Profile) Astro
+- [2024] [DigiPlay](https://uiclone-digiplay.netlify.app/) (Game Store) HTML+CSS+Bootstrap
 <!-- - [2024] [Otakudesu](https://uiclone-otakudesu.netlify.app/) React+Tailwindcss -->
 
 **Statistics:**
