@@ -166,6 +166,7 @@ A Full-time freelancer with over 3 years of full-stack development experience. I
 
 **Side Project:**
 
+- [2024] [Codeigniter CoCoSo](https://ci-cocoso.vercel.app) Simple Implementation CoCoSo Method in Codeigniter.
 - [2024] [Laravel SAS-SV-KNN](https://github.com/zeindevs/laravel-sas-sv-knn) Simple Implementation SAS-SV with K-Nearest Neighbor Algorithm Method in Laravel.
 - [2024] [DewaPOS UI](https://github.com/zeindevs/ui-dewapos) UI Template for Point of Sell Application.
 - [2021] [OSINT Tools (UI Only)](https://github.com/zeindevs/ui-osint-tools) A profiling tool built using various sources of OSINT modules combined into a single tool.
