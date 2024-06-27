@@ -160,9 +160,12 @@ A Full-time freelancer with over 3 years of full-stack development experience. I
 
 **Main Project:**
 
+- [2024] [GOSINT]() OSINT Platform for Information Collection, Anonomously, Securely and Encrypted.
+- [2024] [GarFourin]() All in One Digital Forensics and Intelligence Tool Kits.
+- [2024] [WATools]() Whatsapp Decryption and Database Viewer Support to .crypt12, .crypt14 and .crypt15.
 - [2023-2024] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler (Rewrite to C++).
-- [2024] [AnimAPI](https://github.com/zeindevs/animapi) NPM package that can be used to scraping data from anime websites.
 - [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extension for downloading images and other useful features.
+<!-- - [2024] [AnimAPI](https://github.com/zeindevs/animapi) NPM package that can be used to scraping data from anime websites. -->
 
 **Side Project:**
 
