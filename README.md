@@ -1,4 +1,6 @@
-A Full-time freelancer with over 3 years of full-stack development experience. I am very hardworking and active, so I find it interesting to learn new technologies while spending more time and hone my professional skills.
+An Independent Full Stack Developer, with 3 years of experience. I create open source software for my own needs and ideas come up.
+
+For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail.com).
 
 <a href="https://www.linkedin.com/in/zeindevs/" title="LinkdeIn" target="_blank">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
@@ -35,10 +37,10 @@ A Full-time freelancer with over 3 years of full-stack development experience. I
 **Talking about Personal Stuffs:**
 
 - 💻 I’m a Full-stack Developer;
-- 🌱 I'm improving my skills in React and Microservices;
+- 🌱 I'm improving my skills in React and Golang;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@zeindevs](https://www.linkedin.com/in/zeindevs/);
-- ⚽ My hobbies: Reading, Listening Music, Coding.
+- ⚽ My hobbies: Reading and Listening Music.
 
 **Languages and Tools:**
 
