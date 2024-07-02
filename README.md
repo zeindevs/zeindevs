@@ -185,7 +185,7 @@ For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail
 **Statistics:**
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeindevs&theme=gotham&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zeindevs&theme=gotham&hide_border=true" alt="GitHub Streak" />
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true&layout=compact&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="GitHub Top Languages" />
