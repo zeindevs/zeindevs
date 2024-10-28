@@ -170,7 +170,7 @@ For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail
 **Main Project:**
 
 - [2024] [GOSINT]() OSINT Platform for Information Collection, Anonomously, Securely and Encrypted.
-- [2024] [GarFourin]() All in One Digital Forensics and Intelligence Tool Kits.
+- [2024] [MAURIN]() All in One Digital Forensics and Intelligence Tool Kits.
 - [2024] [WATools]() Whatsapp Decryption and Database Viewer Support to .crypt12, .crypt14 and .crypt15.
 - [2023-2024] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler (Rewrite to C++).
 - [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extension for downloading images and other useful features.
@@ -181,10 +181,11 @@ For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail
 - [2024] [Codeigniter CoCoSo](https://ci-cocoso.vercel.app) Simple Implementation CoCoSo Method in Codeigniter.
 - [2024] [Laravel SAS-SV-KNN](https://github.com/zeindevs/laravel-sas-sv-knn) Simple Implementation SAS-SV with K-Nearest Neighbor Algorithm Method in Laravel.
 - [2024] [DewaPOS UI](https://github.com/zeindevs/ui-dewapos) UI Template for Point of Sell Application.
-- [2021] [OSINT Tools (UI Only)](https://github.com/zeindevs/ui-osint-tools) A profiling tool built using various sources of OSINT modules combined into a single tool.
+- [2021] [OSINT Tools (UI Only)]() A profiling tool built using various sources of OSINT modules combined into a single tool.
 
 **UI Clone (!!!Educational Purpose Only!!!)**
 
+- [2024] [BWA UI Slicing](https://github.com/zeindevs/bwa-ui-slicing) UI Slicing from Free Resource of BWA.
 - [2024] [DTFLab](https://astro-dtflab.netlify.app/) (Company Profile) Astro
 - [2024] [DigiPlay](https://uiclone-digiplay.netlify.app/) (Game Store) HTML+CSS+Bootstrap
 <!-- - [2024] [Otakudesu](https://uiclone-otakudesu.netlify.app/) React+Tailwindcss -->
