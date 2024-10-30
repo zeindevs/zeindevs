@@ -18,7 +18,7 @@ For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail
   <img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />
   <img align="left" alt="Youtube" src="https://img.shields.io/badge/Yotube-@zeindevs?style=flat&color=blue&logo=youtube" style="vertical-align:top; margin:4px" />
 </a> -->
-<a href="https://www.instagram.com/zeindevs/" title="Instagram" target="_blank">
+<a href="https://www.instagram.com/zeindevz/" title="Instagram" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
 <!--   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-@zeindevs?style=flat&color=blue&logo=instagram" style="vertical-align:top; margin:4px" /> -->
 </a>
@@ -180,14 +180,20 @@ For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail
 
 - [2024] [Codeigniter CoCoSo](https://ci-cocoso.vercel.app) Simple Implementation CoCoSo Method in Codeigniter.
 - [2024] [Laravel SAS-SV-KNN](https://github.com/zeindevs/laravel-sas-sv-knn) Simple Implementation SAS-SV with K-Nearest Neighbor Algorithm Method in Laravel.
-- [2024] [DewaPOS UI](https://github.com/zeindevs/ui-dewapos) UI Template for Point of Sell Application.
 - [2021] [OSINT Tools (UI Only)]() A profiling tool built using various sources of OSINT modules combined into a single tool.
 
-**UI Clone (!!!Educational Purpose Only!!!)**
+**Utilities:**
 
-- [2024] [BWA UI Slicing](https://github.com/zeindevs/bwa-ui-slicing) UI Slicing from Free Resource of BWA.
-- [2024] [DTFLab](https://astro-dtflab.netlify.app/) (Company Profile) Astro
-- [2024] [DigiPlay](https://uiclone-digiplay.netlify.app/) (Game Store) HTML+CSS+Bootstrap
+- [2024] [golicense](https://github.com/zeindevs/golicense) License generator written in GO.
+- [2024] [goignore](https://github.com/zeindevs/goignore) A gitignore generator with offline mode.
+- [2024] [gowatch](https://github.com/zeindevs/gowatch) File watcher with custom command execution.
+
+**UI Clone or Slicing (!!!Educational Purpose Only!!!):**
+
+- [2024] [BWA UI Slicing](https://github.com/zeindevs/bwa-ui-slicing) UI slicing from the free resources of BWA.
+- [2024] [DewaPOS UI](https://github.com/zeindevs/ui-dewapos) UI Template for Point of Sell Application.
+- [2024] [DTFLab](https://astro-dtflab.netlify.app) (Company Profile) Astro
+- [2024] [DigiPlay](https://uiclone-digiplay.netlify.app) (Game Store) HTML+CSS+Bootstrap
 <!-- - [2024] [Otakudesu](https://uiclone-otakudesu.netlify.app/) React+Tailwindcss -->
 
 **Statistics:**
