@@ -184,6 +184,7 @@ For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail
 
 **Utilities:**
 
+- [2024] [urlclip](https://github.com/zeindevs/urlclip) Url reader from clipboard and save it like deamon.
 - [2024] [golicense](https://github.com/zeindevs/golicense) License generator written in GO.
 - [2024] [goignore](https://github.com/zeindevs/goignore) A gitignore generator with offline mode.
 - [2024] [gowatch](https://github.com/zeindevs/gowatch) File watcher with custom command execution.
