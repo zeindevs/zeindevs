@@ -169,9 +169,8 @@ For work, please contact me via email [zeindevs@gmail.com](mailto:zeindevs@gmail
 
 **Main Project:**
 
-- [2024] [GOSINT]() OSINT Platform for Information Collection, Anonomously, Securely and Encrypted.
-- [2024] [MAURIN]() All in One Digital Forensics and Intelligence Tool Kits.
-- [2024] [WATools]() Whatsapp Decryption and Database Viewer Support to .crypt12, .crypt14 and .crypt15.
+- [2021-2025] [eyeosint](https://github.com/garudaproject/eyeosint) An OSINT (Open Source Intelligence) Platform for Information Gathering.
+- [2021-2024] [watools](https://github.com/garudaproject/watools) Whatsapp Decryption and Database Viewer Support to .crypt12, .crypt14 and .crypt15.
 - [2023-2024] [AIScaler](https://github.com/AIScaler/AIScaler) Free and Open Source AI Image Upscaler (Rewrite to C++).
 - [2024] [Image Downloader Extensions](https://github.com/zeindevs/imagedl-extensions) Browser extension for downloading images and other useful features.
 <!-- - [2024] [AnimAPI](https://github.com/zeindevs/animapi) NPM package that can be used to scraping data from anime websites. -->
