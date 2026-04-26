@@ -27,6 +27,26 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C671%20hrs%2056%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       15 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   30.53 % 
+TypeScript               15 hrs              ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+Odin                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Makefile                 2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+SQL                      2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+
+🔥 Editors: 
+Neovim                   50 hrs 30 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    50 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
+
 <!--END_SECTION:waka-->
 
 #### Talking about Personal Stuffs
