@@ -13,7 +13,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
+          COMMIT_USERNAME: "zeindevs"
+          COMMIT_EMAIL: "zeindevs@gmail.com"
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "True"
