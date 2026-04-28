@@ -27,23 +27,24 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C679%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       15 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   30.53 % 
-TypeScript               15 hrs              ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-Odin                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Makefile                 2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-SQL                      2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+TypeScript               19 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Go                       13 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Makefile                 3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Odin                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C                        3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-Neovim                   50 hrs 30 mins      █████████████████████████   100.00 % 
+Neovim                   58 hrs 17 mins      █████████████████████████   99.49 % 
+Vim                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Linux                    50 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    58 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
