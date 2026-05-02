@@ -1,30 +1,4 @@
-<div>
-    <!-- <a href="https://www.linkedin.com/in/zeindevs/" title="LinkdeIn" target="_blank"> -->
-    <!--   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.simpleicons.org/linkedin" /> -->
-    <!-- </a> -->
-    <!-- <a href="https://x.com/zeindevs" title="Twitter" target="_blank"> -->
-    <!--   <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x" /> -->
-    <!-- </a> -->
-    <!-- <a href="https://github.com/zeindevs" title="GitHub" target="_blank"> -->
-    <!--   <img align="left" alt="GitHub" width="22px" src="https://cdn.simpleicons.org/github" /> -->
-    <!-- </a> -->
-    <!-- <a href="https://youtube.com/zeindevs" title="YouTube" target="_blank"> -->
-    <!--   <img align="left" alt="YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" /> -->
-    <!-- </a> -->
-    <!-- <a href="https://www.instagram.com/zeindevz/" title="Instagram" target="_blank"> -->
-    <!--   <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" /> -->
-    <!-- </a> -->
-    <!-- <a href="https://www.zeindevs.com/" title="Website" target="_blank"> -->
-    <!--   <img align="left" alt="Website" width="22px" src="./images/logo.png" /> -->
-    <!-- </a> -->
-    <!-- ![](https://visitor-badge.glitch.me/badge?page_id=zeindevs) -->
-    <span>
-        <img src="https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid" />
-    </span>
-    <!-- <a href="https://www.zeindevs.com/" title="Website" target="_blank"> -->
-    <!--   <img align="right" alt="GIF" src="./images/other/coding.gif?raw=true" width="500" height="330" /> -->
-    <!-- </a> -->
-</div>
+![](https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%203%20mins-blue?style=flat)
@@ -62,24 +36,14 @@ Linux                    48 hrs 14 mins      ███████████�
 #### Languages and Tools
 
 <div>
-    <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,python,javascript,typescript,golang&theme=dark" />
-    <!-- <img alt="java" width="35" height="35" src="https://skillicons.dev/icons?i=java&theme=dark" /> -->
-    <!-- <img alt="Hibernate" width="35" height="35" src="./images/technologies/hibernate.jpg"> -->
-    <img src="https://skillicons.dev/icons?i=laravel,expressjs,fastapi,django,react,nextjs&theme=dark" />
-    <!-- <img alt="Spring" width="35" height="35" src="./images/technologies/spring.jpg"> -->
-    <!-- <img alt="Svelte" width="35" height="35" src="https://skillicons.dev/icons?i=svelte&theme=dark" /> -->
-    <!-- <img alt="Vue" width="35" height="35" src="https://skillicons.dev/icons?i=vue&theme=dark" /> -->
-    <!-- <img alt="Astro.js" width="35" height="35" src="https://skillicons.dev/icons?i=astro&theme=dark" /> -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss&theme=dark" />
-    <!-- <img alt="Ant Design" width="35" height="35" src="./images/technologies/antdesign.jpg" /> -->
-    <!-- <img alt="Chakra UI" width="35" height="35" src="./images/technologies/chakraui.jpg" /> -->
-    <img src="https://skillicons.dev/icons?i=react,flutter,qt&theme=dark" />
-    <!-- <!-- <img alt="JavaFX" width="35" height="35" src="./images/technologies/javafx.jpg"> -->
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=golang,python,typescript,php,java,c&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,expressjs,laravel,fastapi,spring&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,mui&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=qt,flutter&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,arch,ubuntu&theme=dark" />
     <img src="https://skillicons.dev/icons?i=sublime,neovim,vscode&theme=dark" />
-    <!-- <img alt="Visual Studio" width="35" height="35" src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /> -->
-    <!-- <img alt="Kubernetes" width="35" height="35" src="./images/technologies/kubernetes.jpg"> -->
 </div>
 
 <!-- #### Main Project -->
@@ -120,9 +84,3 @@ Linux                    48 hrs 14 mins      ███████████�
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="GitHub Top Languages" />
   </div>
 </div>
-
-<!---
-zeindevs/zeindevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
