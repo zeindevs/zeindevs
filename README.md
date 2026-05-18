@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%2034%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
