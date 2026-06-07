@@ -1,23 +1,21 @@
 ![](https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C977%20hrs%2059%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       28 hrs 25 mins      ██████████████░░░░░░░░░░░   56.55 % 
-TypeScript               14 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-Markdown                 3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-PHP                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-C++                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Go                       24 hrs 39 mins      █████████████░░░░░░░░░░░░   52.15 % 
+TypeScript               17 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
+Markdown                 2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+C++                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+HTTP                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Neovim                   50 hrs 15 mins      █████████████████████████   100.00 % 
+Neovim                   47 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    50 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    47 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
