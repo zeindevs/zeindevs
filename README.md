@@ -7,18 +7,13 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      50 mins             ██████████░░░░░░░░░░░░░░░   39.96 % 
-sh                       31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-KDL                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-QML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs               ████████████████████████░   95.22 % 
-Sublime Text             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
