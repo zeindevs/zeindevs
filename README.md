@@ -9,17 +9,13 @@
 
 ```text
 💬 Programming Languages: 
-Go                       56 mins             ██████████░░░░░░░░░░░░░░░   40.98 % 
-CMake                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-C++                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-TeX                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
