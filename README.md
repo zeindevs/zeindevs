@@ -5,29 +5,6 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2027%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Go                       7 hrs 49 mins       ████████████░░░░░░░░░░░░░   47.72 % 
-HTML                     3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-C                        2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Makefile                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-
-🔥 Editors: 
-Neovim                   16 hrs 24 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    16 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
