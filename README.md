@@ -1,9 +1,32 @@
 ![](https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C154%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2027%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       36 hrs 55 mins      ████████████████░░░░░░░░░   64.84 % 
+HTML                     6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+C++                      2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+SQL                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+
+🔥 Editors: 
+Neovim                   56 hrs 56 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    56 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 
 <!--END_SECTION:waka-->
