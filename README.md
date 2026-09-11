@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C180%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C183%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2027%20mins-blue?style=flat)
 
@@ -9,17 +9,17 @@
 
 ```text
 💬 Programming Languages: 
-Go                       16 hrs 46 mins      ███████████████░░░░░░░░░░   61.21 % 
-Markdown                 5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-C                        1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-INI                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-C++                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Go                       12 hrs 27 mins      ████████████████░░░░░░░░░   65.99 % 
+Markdown                 3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+C++                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Makefile                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Neovim                   27 hrs 24 mins      █████████████████████████   100.00 % 
+Neovim                   18 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
