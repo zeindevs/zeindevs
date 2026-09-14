@@ -31,26 +31,26 @@ No AI Coding Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-#### Talking about Personal Stuffs
+<!-- #### Talking about Personal Stuffs -->
 
-- 💻 I’m a Full-stack Developer;
-- 🌱 I'm improving my skills in React and Golang;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [zeindevs@gmail.com](mailto:zeindevs@gmail.com);
-- ⚽ My hobbies: Reading and Listening Music.
+<!-- - 💻 I’m a Full-stack Developer; -->
+<!-- - 🌱 I'm improving my skills in React and Golang; -->
+<!-- - 💬 Ask me about anything, I am happy to help; -->
+<!-- - 📫 How to reach me: [zeindevs@gmail.com](mailto:zeindevs@gmail.com); -->
+<!-- - ⚽ My hobbies: Reading and Listening Music. -->
 
-#### Languages and Tools
+<!-- #### Languages and Tools -->
 
-<div>
-    <img src="https://skillicons.dev/icons?i=golang,python,typescript,php,java,c&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=react,expressjs,laravel,fastapi,spring&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,mui&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=qt,flutter&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=docker,linux,arch,ubuntu&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=sublime,neovim,vscode&theme=dark" />
-</div>
+<!-- <div> -->
+<!--     <img src="https://skillicons.dev/icons?i=golang,python,typescript,php,java,c&theme=dark" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=react,expressjs,laravel,fastapi,spring&theme=dark" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,mui&theme=dark" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=qt,flutter&theme=dark" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=docker,linux,arch,ubuntu&theme=dark" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=sublime,neovim,vscode&theme=dark" /> -->
+<!-- </div> -->
 
 <!-- #### Main Project -->
 
@@ -84,9 +84,9 @@ No AI Coding Activity Tracked This Week
 #### Statistics
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=zeindevs&theme=gotham&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zeindevs&theme=gotham&hide_border=true" alt="GitHub Streak" />
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true&layout=compact&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeindevs&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="GitHub Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api?username=zeindevs&show_icons=true&theme=gotham&count_private=true&layout=compact&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeindevs&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="GitHub Top Languages" />
   </div>
 </div>
