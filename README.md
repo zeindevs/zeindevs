@@ -1,31 +1,47 @@
 ![](https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C194%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       13 hrs 40 mins      █████████████████░░░░░░░░   68.15 % 
-Markdown                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-C++                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Go                       14 hrs 3 mins       ████████████████░░░░░░░░░   62.89 % 
+Markdown                 2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Lua                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   22 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    22 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 31 mins (2.33%)
+
+✍️ 0 lines written by AI, 72,312 lines written by hand (0.0% AI-written)
+
+🔤 80,991 Input Tokens, 8,227 Output Tokens
+
+💵 $0.37 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 5 AI Prompts
+
+OpenCode                 10 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 303 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
 ```
 
 
