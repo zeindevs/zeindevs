@@ -9,25 +9,25 @@
 
 ```text
 💬 Programming Languages: 
-Go                       12 hrs 59 mins      ███████████████░░░░░░░░░░   60.29 % 
-Markdown                 3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Lua                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Go                       15 hrs              ███████████████░░░░░░░░░░   59.46 % 
+Markdown                 3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Lua                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Neovim                   21 hrs 33 mins      █████████████████████████   100.00 % 
+Neovim                   25 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (2.42%)
+⏱ AI Coding Time: 31 mins (2.06%)
 
-✍️ 0 lines written by AI, 71,492 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 73,901 lines written by hand (0.0% AI-written)
 
 🔤 80,991 Input Tokens, 8,227 Output Tokens
 
