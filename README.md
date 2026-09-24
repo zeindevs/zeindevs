@@ -9,39 +9,23 @@
 
 ```text
 💬 Programming Languages: 
-Go                       9 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Markdown                 4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Groovy                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Go                       8 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+Markdown                 4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+XML                      2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Java                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+TypeScript               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-Neovim                   30 hrs 39 mins      █████████████████████████   100.00 % 
+Neovim                   29 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    30 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (1.7%)
-
-✍️ 0 lines written by AI, 71,273 lines written by hand (0.0% AI-written)
-
-🔤 80,991 Input Tokens, 8,227 Output Tokens
-
-💵 $0.37 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-OpenCode                 10 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 303 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
