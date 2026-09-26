@@ -9,17 +9,17 @@
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-TypeScript               4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-XML                      3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Markdown                 3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Groovy                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+TypeScript               14 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.62 % 
+Go                       5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+XML                      3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Groovy                   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Markdown                 3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-Neovim                   33 hrs 22 mins      █████████████████████████   100.00 % 
+Neovim                   40 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    33 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    40 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
