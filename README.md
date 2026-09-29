@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=zeindevs&color=blue&style=liquid)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C264%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
 
@@ -9,17 +9,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 42 mins      █████████████░░░░░░░░░░░░   52.70 % 
-Go                       7 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-XML                      3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Groovy                   3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-JSON                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+TypeScript               31 hrs 24 mins      ██████████████░░░░░░░░░░░   56.41 % 
+Go                       8 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+XML                      2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JSON                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Groovy                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Neovim                   54 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   55 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    54 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    55 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
