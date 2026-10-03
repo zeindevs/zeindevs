@@ -9,17 +9,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               35 hrs 54 mins      ███████████████░░░░░░░░░░   61.73 % 
-Go                       12 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Kotlin                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Astro                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               25 hrs 17 mins      ██████████████░░░░░░░░░░░   54.66 % 
+Go                       12 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Kotlin                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Astro                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Neovim                   58 hrs 10 mins      █████████████████████████   100.00 % 
+Neovim                   46 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    58 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    46 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
